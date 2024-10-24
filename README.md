@@ -1,0 +1,2 @@
+# virtualDestructors
+Class Example
